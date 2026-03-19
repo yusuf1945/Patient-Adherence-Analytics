@@ -140,6 +140,6 @@ Targeted intervention planning by NGOs or care coordinators
 
 
 👨‍💻 Author
-Zeeshan Sayeed
+Md Yusuful Haque
 🎓 B.Tech | 📊 Business Analytics | 💡 Healthcare AI
-📧 zeeshansayeedindia@gmail.com
+📧 yusufhaque2020@gmail.com
